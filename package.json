@@ -4,7 +4,7 @@
   "description": "KVWS frontend module",
   "main": "index.js",
   "scripts": {
-    "build": "rd /s /q dist & webpack --mode production --config ./config/webpack/webpack-prod.config.js & copy app\\config.json dist\\config.json ",
+    "build": "rd /s /q dist & webpack --mode production --config ./config/webpack/webpack-prod.config.js",
     "dev": "copy app\\config.json dev_mode\\config.json & webpack-dev-server --mode development --config ./config/webpack/webpack-dev.config.js --color"
   },
   "author": "T-Systems",
