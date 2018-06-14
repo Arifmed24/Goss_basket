@@ -1,0 +1,16 @@
+body {
+    line-height: 2;
+}
+
+.product-list{
+    background-color: green
+}
+
+.product{
+    background-color: aqua;
+    margin: 5px
+}
+
+.basket {
+    background-color: yellow
+}

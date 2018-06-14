@@ -1,0 +1,23 @@
+{
+    "API_URL":"https://localhost:18080/",
+    "products": [
+        {
+            "id": 1,
+            "name": "flower",
+            "description": "my flower",
+            "price": "50"
+        },
+        {
+            "id": 2,
+            "name": "bagpack",
+            "description": "my bagpack",
+            "price": "150"
+        },
+        {
+            "id": 3,
+            "name": "T-short",
+            "description": "my T-short",
+            "price": "200"
+        }
+    ]
+}
